@@ -1,0 +1,3 @@
+Como entorno de desarrollo o IDE ocuparé VS Code. Con Gemini AI de Apoyo vinculado a la cuenta de repositorio en github del proyecto.
+Desarrollando una página web para visualizar y ajustar los parametros del simulador, ejecutando las simulaciones por medio de las funcionalidades que nos permite javascript. Pudiendo ocupar librerías o funciones de lenguajes como Python u otros lenguajes si así lo requiere.
+Para el envío de los datos podríamos ocupar apirestfull de primera opción pero hasta no definir el manejo del endpoint, quedamos a esperas de la desición final. Esperando una interfaz para simular cada conducta de los 12 dispositivos como la siguiente
